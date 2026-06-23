@@ -1,4 +1,4 @@
-import Reviews from "../../Reviews/Reviews";
+import Reviews from "../Reviews/Reviews";
 import Banner from "../Banner/Banner";
 import Brands from "../Brands/Brands";
 
